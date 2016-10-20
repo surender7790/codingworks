@@ -1,0 +1,1 @@
+# Pull Ideas Here How can we implement a platform for coding and stuff.
