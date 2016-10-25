@@ -1,0 +1,32 @@
+{
+  "name": "codingworks",
+  "version": "1.0.0",
+  "description": "Learning Web Development",
+  "main": "server.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnstonbl01/clementinejs"
+  },
+  "homepage": "http://johnstonbl01.github.io/codingworks/",
+  "bugs": "https://github.com/johnstonbl01/codingworks/issues",
+  "keywords": [
+    "JavaScript",
+    "MongoDB",
+    "Express",
+    "Angular",
+    "Node",
+    "web development"
+  ],
+  "author": "Surender Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongodb": "^2.0.42"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1"
+  }
+}
